@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace DMEDIPOLL\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

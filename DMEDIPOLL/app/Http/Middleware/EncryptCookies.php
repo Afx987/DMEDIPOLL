@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Middleware;
+namespace DMEDIPOLL\Http\Middleware;
 
 use Illuminate\Cookie\Middleware\EncryptCookies as Middleware;
 
